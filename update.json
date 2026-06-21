@@ -1,0 +1,5 @@
+{
+    "version": "v1.1",
+    "downloadUrl": "https://gitee.com/jinlemmoon/surface-pro-max/releases/download/v1.1/SurfaceProMax_setup.exe",
+    "releaseNotes": "1. 新增在线更新功能；\n2.优化项目数据加载；\n3.台站分布图显示增加坐标标注。"
+}
