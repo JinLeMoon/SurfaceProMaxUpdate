@@ -1,5 +1,5 @@
 {
     "version": "v1.2",
-    "downloadUrl": "https://gitee.com/jinlemmoon/surface-pro-max/releases/download/v1.2/SurfaceProMax_setup.exe",
+    "downloadUrl": "https://gitee.com/jinlemmoon/surface-pro-max-release/releases/download/v1.2/SurfaceProMax_setup.exe",
     "releaseNotes": "1. 修复坐标导入标题行处理问题；\n2.优化反演模式与反演频散曲线匹配。"
 }
